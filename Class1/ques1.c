@@ -1,3 +1,4 @@
+//QUESTION : Create number of child processes using fork(),getpid(),getppid(),wait(0),waitpid(p,0,0).
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
